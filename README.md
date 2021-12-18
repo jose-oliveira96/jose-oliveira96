@@ -1,1 +1,2 @@
 - 👋 Hi, my name is José Alves
+- [] Analis e desenvolvimento de sistemas IMPACTA TECNOLOGIA.
